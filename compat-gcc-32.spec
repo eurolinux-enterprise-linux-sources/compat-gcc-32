@@ -1,7 +1,7 @@
 %define LIBSTDCXXDATE 20040818
 %define DATE 20040701
 %define gcc_version 3.2.3
-%define gcc_release 71
+%define gcc_release 72
 %define _unpackaged_files_terminate_build 0
 %define multilib_64_archs sparc64 ppc64 s390x x86_64
 %define build_java 0
@@ -455,6 +455,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_prefix}/%{_lib}/libstdc++.so.5*
 
 %changelog
+* Tue Nov  4 2014 Jakub Jelinek  <jakub@redhat.com> 3.2.3-72
+- rebuilt against fixed glibc to avoid infinite recursion in btowc (#1159772)
+
 * Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 3.2.3-71
 - Mass rebuild 2014-01-24
 
