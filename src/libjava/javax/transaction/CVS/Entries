@@ -1,0 +1,15 @@
+D/xa////
+/HeuristicCommitException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/HeuristicMixedException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/HeuristicRollbackException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/InvalidTransactionException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/NotSupportedException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/RollbackException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/Status.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/Synchronization.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/SystemException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/Transaction.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/TransactionManager.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/TransactionRequiredException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/TransactionRolledbackException.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch
+/UserTransaction.java/1.1/Wed Oct 24 21:39:23 2001//Tgcc-3_2-rhl8-branch

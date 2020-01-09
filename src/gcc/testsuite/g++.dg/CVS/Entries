@@ -1,0 +1,20 @@
+D/special////
+D/abi////
+D/eh////
+D/ext////
+D/inherit////
+D/init////
+D/lookup////
+D/opt////
+D/other////
+D/overload////
+D/template////
+D/warn////
+D/parse////
+D/debug////
+/README/1.2/Thu Feb 14 14:26:26 2002//Tgcc-3_2-rhl8-branch
+/dg.exp/1.4.10.1/Tue Sep 24 13:08:18 2002//Tgcc-3_2-rhl8-branch
+/ref1.C/1.2/Tue Nov 20 09:00:33 2001//Tgcc-3_2-rhl8-branch
+/sizeof1.C/1.2/Tue Nov 20 05:09:34 2001//Tgcc-3_2-rhl8-branch
+D/tls////
+D/expr////

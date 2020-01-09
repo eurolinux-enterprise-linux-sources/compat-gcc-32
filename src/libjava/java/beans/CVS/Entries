@@ -1,0 +1,26 @@
+D/beancontext////
+/AppletInitializer.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/BeanDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/BeanInfo.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/Beans.java/1.3/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/Customizer.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/DesignMode.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/EventSetDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/FeatureDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/IndexedPropertyDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/IntrospectionException.java/1.2.2.1/Tue Mar 26 16:58:52 2002//Tgcc-3_2-rhl8-branch
+/Introspector.java/1.2.2.1/Tue Mar 26 16:58:52 2002//Tgcc-3_2-rhl8-branch
+/MethodDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/ParameterDescriptor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyChangeEvent.java/1.4/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyChangeListener.java/1.3/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyChangeSupport.java/1.3/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyDescriptor.java/1.3/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyEditor.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyEditorManager.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyEditorSupport.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/PropertyVetoException.java/1.4.2.1/Tue Mar 26 16:58:52 2002//Tgcc-3_2-rhl8-branch
+/SimpleBeanInfo.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/VetoableChangeListener.java/1.3/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/VetoableChangeSupport.java/1.4/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch
+/Visibility.java/1.2/Wed Jan 23 15:30:19 2002//Tgcc-3_2-rhl8-branch

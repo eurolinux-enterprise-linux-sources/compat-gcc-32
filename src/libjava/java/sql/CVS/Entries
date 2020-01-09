@@ -1,0 +1,27 @@
+/Array.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/BatchUpdateException.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Blob.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/CallableStatement.java/1.3/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Clob.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Connection.java/1.3/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/DataTruncation.java/1.4/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/DatabaseMetaData.java/1.5/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Date.java/1.3/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Driver.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/DriverManager.java/1.5/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/DriverPropertyInfo.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/PreparedStatement.java/1.3/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/Ref.java/1.2/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/ResultSet.java/1.3/Wed Jan 23 15:31:10 2002//Tgcc-3_2-rhl8-branch
+/ResultSetMetaData.java/1.3/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/SQLData.java/1.2/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/SQLException.java/1.4/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/SQLInput.java/1.2/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/SQLOutput.java/1.2/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/SQLWarning.java/1.5/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/Statement.java/1.3/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/Struct.java/1.2/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/Time.java/1.3/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/Timestamp.java/1.3/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+/Types.java/1.4/Wed Jan 23 15:31:35 2002//Tgcc-3_2-rhl8-branch
+D

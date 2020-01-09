@@ -1,0 +1,24 @@
+D/17_intro////
+D/18_support////
+D/20_util////
+D/21_strings////
+D/22_locale////
+D/23_containers////
+D/24_iterators////
+D/25_algorithms////
+D/26_numerics////
+D/27_io////
+D/ext////
+D/lib////
+D/config////
+D/19_diagnostics////
+D/libstdc++-v3.dg////
+D/backward////
+D/thread////
+/README/1.8/Sun Jul 22 19:35:33 2001//Tgcc-3_2-rhl8-branch
+/printnow.c/1.1/Fri Apr 21 20:33:33 2000//Tgcc-3_2-rhl8-branch
+/Makefile.am/1.4.24.2.2.1/Sat Oct  5 17:25:06 2002//Tgcc-3_2-rhl8-branch
+/abi_check.cc/1.2.2.2.2.4/Sun Dec  8 20:45:44 2002//Tgcc-3_2-rhl8-branch
+/Makefile.in/1.20.2.5.2.2.2.2/Fri Jan 17 17:44:46 2003//Tgcc-3_2-rhl8-branch
+D/demangle////
+/testsuite_hooks.h/1.5.2.1.2.1.2.2/Thu Jul  1 10:55:35 2004//Tgcc-3_2-rhl8-branch

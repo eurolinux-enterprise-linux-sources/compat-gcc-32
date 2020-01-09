@@ -1,0 +1,28 @@
+D/bits////
+D/sys////
+/assert.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/ctype.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/errno.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/fcntl.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/features.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/float.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/iconv.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/iolibio.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/langinfo.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/libio.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/libioP.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/limits.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/locale.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/math.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/pthread.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/setjmp.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/signal.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/stdarg.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/stddef.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/stdio.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/stdlib.h/1.2/Tue Nov  6 18:58:44 2001//Tgcc-3_2-rhl8-branch
+/string.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/time.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/unistd.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/wchar.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
+/wctype.h/1.1/Thu Dec 21 22:46:25 2000//Tgcc-3_2-rhl8-branch
