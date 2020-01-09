@@ -1,0 +1,45 @@
+D/directory////
+D/spi////
+D/event////
+D/ldap////
+/AuthenticationException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/AuthenticationNotSupportedException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/BinaryRefAddr.java/1.3/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/Binding.java/1.1/Wed Oct 24 21:39:15 2001//Tgcc-3_2-rhl8-branch
+/CannotProceedException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/CommunicationException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/CompositeName.java/1.1/Wed Oct 24 21:39:15 2001//Tgcc-3_2-rhl8-branch
+/CompoundName.java/1.1/Wed Oct 24 21:39:15 2001//Tgcc-3_2-rhl8-branch
+/ConfigurationException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/Context.java/1.4/Fri Mar 30 09:45:03 2001//Tgcc-3_2-rhl8-branch
+/ContextNotEmptyException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/InitialContext.java/1.5/Mon Oct 22 09:07:22 2001//Tgcc-3_2-rhl8-branch
+/InsufficientResourcesException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/InterruptedNamingException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/InvalidNameException.java/1.3/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/LimitExceededException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/LinkException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/LinkLoopException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/LinkRef.java/1.1/Wed Oct 24 21:39:15 2001//Tgcc-3_2-rhl8-branch
+/MalformedLinkException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/Name.java/1.5/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/NameAlreadyBoundException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/NameClassPair.java/1.1/Wed Oct 24 21:39:15 2001//Tgcc-3_2-rhl8-branch
+/NameNotFoundException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/NameParser.java/1.1/Mon Nov 27 08:44:59 2000//Tgcc-3_2-rhl8-branch
+/NamingEnumeration.java/1.1/Mon Nov 27 03:16:13 2000//Tgcc-3_2-rhl8-branch
+/NamingException.java/1.4/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/NamingSecurityException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/NoInitialContextException.java/1.1/Mon Nov 27 03:16:13 2000//Tgcc-3_2-rhl8-branch
+/NoPermissionException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/NotContextException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/OperationNotSupportedException.java/1.2/Mon Oct 22 09:07:22 2001//Tgcc-3_2-rhl8-branch
+/PartialResultException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/RefAddr.java/1.4/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/Reference.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/Referenceable.java/1.1/Mon Nov 27 03:16:13 2000//Tgcc-3_2-rhl8-branch
+/ReferralException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/ServiceUnavailableException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/SizeLimitExceededException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch
+/StringRefAddr.java/1.3/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/TimeLimitExceededException.java/1.1/Mon Nov 27 05:57:58 2000//Tgcc-3_2-rhl8-branch

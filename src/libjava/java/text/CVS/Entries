@@ -1,0 +1,25 @@
+/Annotation.java/1.2/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/AttributedCharacterIterator.java/1.2/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/AttributedString.java/1.2/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/AttributedStringIterator.java/1.2/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/BreakIterator.java/1.6/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/CharacterIterator.java/1.5/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/ChoiceFormat.java/1.9/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/CollationElementIterator.java/1.5/Wed Dec 19 15:08:38 2001//Tgcc-3_2-rhl8-branch
+/CollationKey.java/1.4/Fri Nov 17 20:42:54 2000//Tgcc-3_2-rhl8-branch
+/Collator.java/1.10/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/DateFormat.java/1.8/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/DateFormatSymbols.java/1.12/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/DecimalFormat.java/1.9/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/DecimalFormatSymbols.java/1.9/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/FieldPosition.java/1.5/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/Format.java/1.6/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/MessageFormat.java/1.10/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/NumberFormat.java/1.9/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/ParseException.java/1.5/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/ParsePosition.java/1.5/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/RuleBasedCollator.java/1.7/Mon Sep 10 08:35:05 2001//Tgcc-3_2-rhl8-branch
+/SimpleDateFormat.java/1.15/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/StringCharacterIterator.java/1.7/Wed Jan 23 15:31:36 2002//Tgcc-3_2-rhl8-branch
+/natCollator.cc/1.5/Tue Mar  7 19:55:27 2000//Tgcc-3_2-rhl8-branch
+D

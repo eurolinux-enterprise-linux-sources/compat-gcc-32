@@ -1,0 +1,19 @@
+/Makefile.am/1.21/Sun Jul 22 19:35:33 2001//Tgcc-3_2-rhl8-branch
+/_G_config.h/1.11/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/filedoalloc.c/1.3/Tue Aug 15 07:32:59 2000//Tgcc-3_2-rhl8-branch
+/fileops.c/1.5/Tue Aug 15 07:32:59 2000//Tgcc-3_2-rhl8-branch
+/genops.c/1.7/Tue Aug 15 07:32:59 2000//Tgcc-3_2-rhl8-branch
+/iofclose.c/1.2/Tue Aug 15 07:32:59 2000//Tgcc-3_2-rhl8-branch
+/iofopen.c/1.3/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/iofwide.c/1.8/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/iolibio.h/1.3/Mon Oct  9 11:52:13 2000//Tgcc-3_2-rhl8-branch
+/libio.h/1.13/Wed Jan 17 12:36:29 2001//Tgcc-3_2-rhl8-branch
+/libioP.h/1.8/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/stdfiles.c/1.3/Wed Jul 19 00:57:38 2000//Tgcc-3_2-rhl8-branch
+/stdio.c/1.2/Tue Aug 15 07:33:00 2000//Tgcc-3_2-rhl8-branch
+/wfiledoalloc.c/1.3/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/wfileops.c/1.5/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/wgenops.c/1.4/Mon Oct 30 08:14:35 2000//Tgcc-3_2-rhl8-branch
+/Makefile.in/1.93.2.5.2.1.2.1/Fri Jan 17 17:44:39 2003//Tgcc-3_2-rhl8-branch
+/ChangeLog/1.20.22.3.2.1.2.3/Wed Apr 23 15:14:07 2003//Tgcc-3_2-rhl8-branch
+D

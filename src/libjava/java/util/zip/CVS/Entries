@@ -1,0 +1,21 @@
+/Adler32.java/1.8/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/CRC32.java/1.7/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/CheckedInputStream.java/1.6/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/CheckedOutputStream.java/1.5/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/Checksum.java/1.6/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/DataFormatException.java/1.7/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/Deflater.java/1.9/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/DeflaterOutputStream.java/1.7/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/GZIPInputStream.java/1.5/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/GZIPOutputStream.java/1.7/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/Inflater.java/1.6/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/InflaterInputStream.java/1.13/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipConstants.java/1.6/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipEntry.java/1.13/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipException.java/1.6/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipFile.java/1.16/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipInputStream.java/1.13/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/ZipOutputStream.java/1.11/Wed Jan 23 15:32:17 2002//Tgcc-3_2-rhl8-branch
+/natDeflater.cc/1.7/Fri Mar 30 09:45:03 2001//Tgcc-3_2-rhl8-branch
+/natInflater.cc/1.9/Fri Mar 30 09:45:03 2001//Tgcc-3_2-rhl8-branch
+D

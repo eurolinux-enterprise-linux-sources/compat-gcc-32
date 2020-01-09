@@ -1,0 +1,10 @@
+/copysignf.c/1.2/Wed Jan 23 15:33:21 2002//Tgcc-3_2-rhl8-branch
+/mathconf.h/1.8/Sat Aug 18 20:11:00 2001//Tgcc-3_2-rhl8-branch
+/nan.c/1.2/Wed Jan 23 15:33:21 2002//Tgcc-3_2-rhl8-branch
+/signbit.c/1.2/Wed Jan 23 15:33:21 2002//Tgcc-3_2-rhl8-branch
+/signbitf.c/1.2/Wed Jan 23 15:33:21 2002//Tgcc-3_2-rhl8-branch
+/signbitl.c/1.2/Wed Jan 23 15:33:21 2002//Tgcc-3_2-rhl8-branch
+/stubs.c/1.10/Tue Jan  1 22:52:34 2002//Tgcc-3_2-rhl8-branch
+/Makefile.am/1.18.2.1.8.1/Sat Oct  5 17:25:04 2002//Tgcc-3_2-rhl8-branch
+/Makefile.in/1.69.2.5.2.1.2.2/Fri Jan 17 17:44:40 2003//Tgcc-3_2-rhl8-branch
+D

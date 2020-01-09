@@ -1,0 +1,19 @@
+/Attribute.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/AttributeInUseException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/AttributeModificationException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/Attributes.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/BasicAttribute.java/1.1/Wed Oct 24 21:39:17 2001//Tgcc-3_2-rhl8-branch
+/BasicAttributes.java/1.1/Wed Oct 24 21:39:17 2001//Tgcc-3_2-rhl8-branch
+/DirContext.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InitialDirContext.java/1.3/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InvalidAttributeIdentifierException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InvalidAttributeValueException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InvalidAttributesException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InvalidSearchControlsException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/InvalidSearchFilterException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/ModificationItem.java/1.1/Wed Oct 24 21:39:17 2001//Tgcc-3_2-rhl8-branch
+/NoSuchAttributeException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/SchemaViolationException.java/1.2/Thu Oct 25 09:14:49 2001//Tgcc-3_2-rhl8-branch
+/SearchControls.java/1.1/Wed Oct 24 21:39:17 2001//Tgcc-3_2-rhl8-branch
+/SearchResult.java/1.1/Wed Oct 24 21:39:17 2001//Tgcc-3_2-rhl8-branch
+D

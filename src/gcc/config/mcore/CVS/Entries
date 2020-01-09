@@ -1,0 +1,13 @@
+/crti.asm/1.1/Mon Feb 14 22:51:36 2000//Tgcc-3_2-rhl8-branch
+/crtn.asm/1.1/Mon Feb 14 22:51:36 2000//Tgcc-3_2-rhl8-branch
+/gfloat.h/1.2/Thu Oct 11 18:00:04 2001//Tgcc-3_2-rhl8-branch
+/lib1.asm/1.3/Fri Jun  8 09:37:15 2001//Tgcc-3_2-rhl8-branch
+/mcore-elf.h/1.9/Tue Jan 29 13:15:02 2002//Tgcc-3_2-rhl8-branch
+/mcore-pe.h/1.8.8.1/Mon Mar 25 19:16:49 2002//Tgcc-3_2-rhl8-branch
+/mcore-protos.h/1.6/Tue Nov  6 18:56:10 2001//Tgcc-3_2-rhl8-branch
+/mcore.c/1.29/Thu Dec 27 12:49:48 2001//Tgcc-3_2-rhl8-branch
+/mcore.md/1.6/Thu Oct 11 18:00:04 2001//Tgcc-3_2-rhl8-branch
+/t-mcore/1.3/Fri Jun  8 09:37:15 2001//Tgcc-3_2-rhl8-branch
+/t-mcore-pe/1.3/Fri Jun  8 09:37:15 2001//Tgcc-3_2-rhl8-branch
+/mcore.h/1.27.2.2.8.1/Fri Oct 31 10:36:51 2003//Tgcc-3_2-rhl8-branch
+D
