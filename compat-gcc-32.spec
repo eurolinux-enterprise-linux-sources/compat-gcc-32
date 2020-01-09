@@ -1,7 +1,7 @@
 %define LIBSTDCXXDATE 20040818
 %define DATE 20040701
 %define gcc_version 3.2.3
-%define gcc_release 69
+%define gcc_release 71
 %define _unpackaged_files_terminate_build 0
 %define multilib_64_archs sparc64 ppc64 s390x x86_64
 %define build_java 0
@@ -274,6 +274,9 @@ OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-m64//g;s/-m32//g;s/-m31//g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=pentium4/-mcpu=i686/g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=generic/-mcpu=i686/g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=atom/-mcpu=i686/g'`
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=atom/-mcpu=i686/g'`
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-march=x86-64//g'`
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mfpmath=sse//g'`
 %endif
 %ifarch x86_64
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=nocona//g'`
@@ -283,10 +286,14 @@ OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mtune=generic//g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-mcpu=ultrasparc/-mtune=ultrasparc/g'`
 %endif
 %ifarch s390 s390x
-OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-march=z9-109//g;s/-mtune=z10//g'`
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-march=z9-109//g;s/-march=z10//g;s/-march=z196//g;s/-mtune=z10//g;s/-mtune=zEC12//g'`
+%endif
+%ifarch ppc ppc64
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-march=power[678]//g;s/-mcpu=power[678]//g;s/-mtune=power[678]//g'`
 %endif
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-Wall//g' -e 's/-Wp,-D_FORTIFY_SOURCE=2//g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-fexceptions//g' -e 's/-fasynchronous-unwind-tables//g'`
+OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-grecord-gcc-switches//g' -e 's/-fstack-protector-strong//g'`
 OPT_FLAGS=`echo $OPT_FLAGS|sed -e 's/-fstack-protector//g' -e 's/--param=ssp-buffer-size=[0-9]*//g'`
 %ifarch sparc64
 cat > gcc64 <<"EOF"
@@ -448,6 +455,13 @@ rm -rf $RPM_BUILD_ROOT
 %{_prefix}/%{_lib}/libstdc++.so.5*
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 3.2.3-71
+- Mass rebuild 2014-01-24
+
+* Tue Jan  7 2014 Jakub Jelinek  <jakub@redhat.com> 3.2.3-70
+- filter out -fstack-protector-strong, -grecord-gcc-switches and new
+  i686, ppc and s390 tunings (#1048850)
+
 * Wed Aug 28 2013 Jakub Jelinek  <jakub@redhat.com> 3.2.3-69
 - add %%{?dist} to release (#874993)
 
